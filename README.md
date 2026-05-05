@@ -18,6 +18,13 @@ Road accidents are a major public safety concern. This project analyzes accident
 
 ---
 
+## 📸 Dashboard Preview
+
+### Overview
+![Overview](images/3.png)
+
+---
+
 ## 📊 Key KPIs
 
 * Total Accidents
